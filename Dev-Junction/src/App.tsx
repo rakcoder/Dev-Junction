@@ -14,6 +14,7 @@ import { Web3Provider } from './contexts/Web3Context';
 import { AuthProvider } from './contexts/AuthContext';
 import { ProtectedRoute } from './components/ProtectedRoute';
 
+// Main application component
 function App() {
   console.log("App component rendered");
   return (
