@@ -56,7 +56,4 @@ We welcome contributions! Feel free to submit a PR or open an issue to report bu
 This project is licensed under the MIT License.
 
 ## Contact
-For queries or collaboration, reach out to [kasaudhananand2003@gmail.com / agherarakshit26@gmail.com](mailto:your.email@example.com).
-
-
-// This is a new line
+For queries or collaboration, reach out to [agherarakshit26@gmail.com](mailto:your.email@example.com).
